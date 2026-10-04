@@ -1,0 +1,5 @@
+# Production Dependencies
+pydantic>=2.0.0
+# Optional REST API wrapper
+fastapi>=0.100.0
+uvicorn>=0.23.0

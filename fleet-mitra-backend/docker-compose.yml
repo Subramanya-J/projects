@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  fleet-api:
+    build: .
+    container_name: fleet_mitra_api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./fleet_mitra.db
+    volumes:
+      - ./fleet_mitra.db:/app/fleet_mitra.db
+    restart: always
