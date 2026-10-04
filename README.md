@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://linkedin.com/in/subramanya-devadiga-b9183820b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:subramanyajd07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:subramanyaj07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Subramanya-J/projects"><img src="https://img.shields.io/badge/Projects_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   </p>
 </div>
